@@ -1,0 +1,12 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 10em auto;
+  padding: 20px;
+}
+
+.message {
+  text-align: center;
+  font-size: 22pt;
+  font-weight: bold;
+}
